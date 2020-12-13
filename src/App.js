@@ -1,9 +1,12 @@
+import React, { useState } from 'react'
 import './App.css'
+import GamePage from './components/GamePage'
 
-function App() {
+const App = () => {
   return (
-    <div>
-      <h1>Sort-it</h1>
+    <div className="page-wrapper">
+      <h1>Welcome to Sort-it!</h1>
+      <button onClick={ }>Start playing</button>
     </div>
   )
 }

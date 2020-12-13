@@ -1,0 +1,14 @@
+
+
+body {
+    margin: 0 auto;
+    width: 960px;
+  }
+
+  .page-wrapper {
+      text-align: center;
+  }
+
+  button {
+      padding: 10px 10px;
+  }
