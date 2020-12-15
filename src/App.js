@@ -1,11 +1,19 @@
 import React from 'react'
 import './App.css'
-import GamePage from './components/GamePage'
+import GameArea from './components/GamePage'
+
+//import GameArea from './components/GameArea'
 
 const App = () => {
+
+  // const startGame = () => {
+
+  // }
   return (
-    <div>
-      <GamePage />
+    <div className="page-cont">
+      {/* <h1>Welcome to Sort-it!</h1>
+      <button>Start game</button> */}
+      <GameArea />
     </div>
   )
 }

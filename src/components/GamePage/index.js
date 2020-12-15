@@ -1,25 +1,20 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 
-import StartPage from '../StartPage'
+import API from '../../utils/API'
+//import GameQuestions
 
-const GamePage = () => {
-    const [openModal, setOpenModal] = useState(true)
+const GameArea = () => {
+    const [gameQuestion, setGameQuestion] = useState("")
 
-    const closeModal = () => {
-        console.log("close modal")
-        setOpenModal(false)
-    }
+    // const getQuestion = () {
+
+    // }
+    console.log(API.getRandomQuestion())
     return (
-        <div className="page-cont">
-            <StartPage 
-                openModal={openModal}
-                closeModal={closeModal}
-            />
-            <h1>
-                this is the game page component
-            </h1>
+        <div className="game-cont">
+            <div>{gameQuestion}</div>
         </div>
     )
 }
 
-export default GamePage
+export default GameArea

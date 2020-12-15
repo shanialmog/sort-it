@@ -1,0 +1,21 @@
+{
+    "1": {
+        "question": "Who is the tallest?",
+        "options": [
+            {
+                "id": 0,
+                "description": "Elephant",
+                "img": "../public/images/elephant.jpg"
+            }
+        ],
+        "answer": {
+            "0": 2,
+            "1": 3,
+            "2": 1,
+            "3": 5,
+            "4": 6,
+            "5": 0,
+            "6": 4
+        }
+    }
+}
