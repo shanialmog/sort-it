@@ -6,13 +6,17 @@ import API from '../../utils/API'
 const GameArea = () => {
     const [gameQuestion, setGameQuestion] = useState("")
 
-    // const getQuestion = () {
+    useEffect(() => {
+        const data = API.getRandomQuestion()
+        setGameQuestion(data.question)
+        // console.log("data", data)
+        console.log(gameQuestion)
+    }, [])
 
-    // }
     console.log(API.getRandomQuestion())
     return (
         <div className="game-cont">
-            <div>{gameQuestion}</div>
+            <h1>{gameQuestion}</h1>
         </div>
     )
 }

@@ -6,6 +6,134 @@
                 "id": 0,
                 "description": "Elephant",
                 "img": "../public/images/elephant.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Giraffe",
+                "img": "../public/images/giraffe.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Hippopotamus",
+                "img": "../public/images/hippopotamus.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Ostrich",
+                "img": "../public/images/ostrich.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Bear",
+                "img": "../public/images/bear.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Camel",
+                "img": "../public/images/camel.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Bison",
+                "img": "../public/images/bison.jpg"
+            }
+        ],
+        "answer": {
+            "0": 2,
+            "1": 3,
+            "2": 1,
+            "3": 5,
+            "4": 6,
+            "5": 0,
+            "6": 4
+        }
+    },
+    "2": {
+        "question": "Which movie was released the earliest?",
+        "options": [
+            {
+                "id": 0,
+                "description": "Ghostbusters",
+                "img": "../public/images/ghostbusters.jpg"
+            },
+            {
+                "id": 0,
+                "description": "The Exorcist",
+                "img": "../public/images/the_exorcist.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Citizen Kane",
+                "img": "../public/images/citizen_kane.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Titanic",
+                "img": "../public/images/titanic.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Gone with the Wind",
+                "img": "../public/images/gone_with_the_wind.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Fame",
+                "img": "../public/images/fame.jpg"
+            },
+            {
+                "id": 0,
+                "description": "The Rocky Horror Picture Show",
+                "img": "../public/images/the_rocky_horror_picture_show.jpg"
+            }
+        ],
+        "answer": {
+            "0": 2,
+            "1": 3,
+            "2": 1,
+            "3": 5,
+            "4": 6,
+            "5": 0,
+            "6": 4
+        }
+    },
+    "3": {
+        "question": "which animal lives the longest?",
+        "options": [
+            {
+                "id": 0,
+                "description": "Tortoise",
+                "img": "../public/images/tortoise.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Greenland Shark",
+                "img": "../public/images/greenland_shark.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Rhinoceros",
+                "img": "../public/images/rhinoceros.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Iguana",
+                "img": "../public/images/iguana.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Raccoon",
+                "img": "../public/images/raccoon.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Jellyfish",
+                "img": "../public/images/jellyfish.jpg"
+            },
+            {
+                "id": 0,
+                "description": "Urang Uttang",
+                "img": "../public/images/urang_uttang.jpg"
             }
         ],
         "answer": {

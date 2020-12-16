@@ -1,11 +1,12 @@
 const DB = require('./mockDB.json')
 
 const getRandomQuestion = () => {
-    const id = 1
+    const keys = Object.keys(DB)
+    const id =  keys.length * Math.random() +1 << 0
     return {
         id,
-        question: DB[1].question,
-        options: DB[1].options
+        question: DB[id].question,
+        options: DB[id].options
     }
 }
 

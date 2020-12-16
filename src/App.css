@@ -3,19 +3,19 @@ body {
     width: 960px;
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
-  }
+}
 
-  .page-cont {
-    text-align: center;
-  }
-
-  button {
+button {
     padding: 10px 10px;
-  }
+}
+.page-cont {
+    width: 100%;
+}
 
-  .game-cont {
-      width: 100%;
-      height: 40em;
-      margin-top: 1rem;
-      background-color: #efefef;
-  }
+.game-cont {
+    text-align: center;
+    height: 40em;
+    margin-top: 1rem;
+    padding: 2rem 2rem;
+    background-color: #efefef;
+}
