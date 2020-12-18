@@ -19,3 +19,17 @@ button {
     padding: 2rem 2rem;
     background-color: #efefef;
 }
+
+.answer-card-cont {
+    display: flex;
+    justify-content: space-between;
+}
+
+.answer-card {
+    width: 8em;
+    height: 11em;
+    background-color: #9b9b9b;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+}

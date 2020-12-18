@@ -8,32 +8,32 @@
                 "img": "../public/images/elephant.jpg"
             },
             {
-                "id": 0,
+                "id": 1,
                 "description": "Giraffe",
                 "img": "../public/images/giraffe.jpg"
             },
             {
-                "id": 0,
+                "id": 2,
                 "description": "Hippopotamus",
                 "img": "../public/images/hippopotamus.jpg"
             },
             {
-                "id": 0,
+                "id": 3,
                 "description": "Ostrich",
                 "img": "../public/images/ostrich.jpg"
             },
             {
-                "id": 0,
+                "id": 4,
                 "description": "Bear",
                 "img": "../public/images/bear.jpg"
             },
             {
-                "id": 0,
+                "id": 5,
                 "description": "Camel",
                 "img": "../public/images/camel.jpg"
             },
             {
-                "id": 0,
+                "id": 6,
                 "description": "Bison",
                 "img": "../public/images/bison.jpg"
             }
@@ -57,32 +57,32 @@
                 "img": "../public/images/ghostbusters.jpg"
             },
             {
-                "id": 0,
+                "id": 1,
                 "description": "The Exorcist",
                 "img": "../public/images/the_exorcist.jpg"
             },
             {
-                "id": 0,
+                "id": 2,
                 "description": "Citizen Kane",
                 "img": "../public/images/citizen_kane.jpg"
             },
             {
-                "id": 0,
+                "id": 3,
                 "description": "Titanic",
                 "img": "../public/images/titanic.jpg"
             },
             {
-                "id": 0,
+                "id": 4,
                 "description": "Gone with the Wind",
                 "img": "../public/images/gone_with_the_wind.jpg"
             },
             {
-                "id": 0,
+                "id": 5,
                 "description": "Fame",
                 "img": "../public/images/fame.jpg"
             },
             {
-                "id": 0,
+                "id": 6,
                 "description": "The Rocky Horror Picture Show",
                 "img": "../public/images/the_rocky_horror_picture_show.jpg"
             }
@@ -106,32 +106,32 @@
                 "img": "../public/images/tortoise.jpg"
             },
             {
-                "id": 0,
+                "id": 1,
                 "description": "Greenland Shark",
                 "img": "../public/images/greenland_shark.jpg"
             },
             {
-                "id": 0,
+                "id": 2,
                 "description": "Rhinoceros",
                 "img": "../public/images/rhinoceros.jpg"
             },
             {
-                "id": 0,
+                "id": 3,
                 "description": "Iguana",
                 "img": "../public/images/iguana.jpg"
             },
             {
-                "id": 0,
+                "id": 4,
                 "description": "Raccoon",
                 "img": "../public/images/raccoon.jpg"
             },
             {
-                "id": 0,
+                "id": 5,
                 "description": "Jellyfish",
                 "img": "../public/images/jellyfish.jpg"
             },
             {
-                "id": 0,
+                "id": 6,
                 "description": "Urang Uttang",
                 "img": "../public/images/urang_uttang.jpg"
             }
