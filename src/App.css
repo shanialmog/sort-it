@@ -20,9 +20,13 @@ button {
     background-color: #efefef;
 }
 
-.answer-card-cont {
+.option-cards-cont {
     display: flex;
     justify-content: space-between;
+}
+
+.answers-card-cont {
+    
 }
 
 .answer-card {

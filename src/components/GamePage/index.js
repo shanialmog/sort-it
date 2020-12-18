@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 
 import AnswerCardsContainer from '../AnswerCardsContainer'
+import OptionCardsContainer from '../OptionCardsContainer'
 
 import API from '../../utils/API'
 
@@ -26,6 +27,8 @@ const GameArea = () => {
         <div className="game-cont">
             <h1>{gameQuestion}</h1>
             <AnswerCardsContainer
+            />
+            <OptionCardsContainer
                 cardDescription={cardDescription}
                 cardImg={cardImg}
                 cardsOptions={cardsOptions}
