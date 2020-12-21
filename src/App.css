@@ -5,6 +5,10 @@ body {
     font-size: 14px;
 }
 
+h1 {
+    margin-bottom: 2em;
+}
+
 button {
     padding: 10px 10px;
 }
@@ -14,26 +18,26 @@ button {
 
 .game-cont {
     text-align: center;
-    height: 40em;
+    height: 60em;
     margin-top: 1rem;
     padding: 2rem 2rem;
     background-color: #efefef;
 }
 
 .option-cards-cont {
+    height:80vh;
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
-}
-
-.answers-card-cont {
-    
+    align-items: center;
 }
 
 .answer-card {
-    width: 8em;
-    height: 11em;
-    background-color: #9b9b9b;
+    width: 15em;
+    height: 5em;
+    background-color: #e3e3e3;
     border-radius: 1rem;
     display: flex;
-    flex-direction: column;
+    align-content: space-around;
+    /* margin-bottom: 0.5em; */
 }
